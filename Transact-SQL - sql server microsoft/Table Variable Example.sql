@@ -25,3 +25,5 @@ DECLARE @MyTable as TABLE
  
  select * from @MyTable
  order by orders desc
+
+ -- For testing

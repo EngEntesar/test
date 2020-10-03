@@ -28,3 +28,5 @@ DECLARE @MyTable as TABLE
 
 
  -- for testing from entesar
+
+ -- For testing
